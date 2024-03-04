@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://jmm3dmod.github.io</id>
+    <title>JMM-OrangeCat blog</title>
+    <updated>2024-03-04T04:58:04.493Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://jmm3dmod.github.io"/>
+    <link rel="self" href="https://jmm3dmod.github.io/atom.xml"/>
+    <subtitle>This is a website that publishes my 3D work</subtitle>
+    <logo>https://jmm3dmod.github.io/images/avatar.png</logo>
+    <icon>https://jmm3dmod.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2024, JMM-OrangeCat blog</rights>
+    <entry>
+        <title type="html"><![CDATA[关于作者Author's words]]></title>
+        <id>https://jmm3dmod.github.io/post/guan-yu-zuo-zhe-authors-words/</id>
+        <link href="https://jmm3dmod.github.io/post/guan-yu-zuo-zhe-authors-words/">
+        </link>
+        <updated>2024-03-02T12:22:54.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[测试文章]]></title>
+        <id>https://jmm3dmod.github.io/post/ce-shi-wen-zhang/</id>
+        <link href="https://jmm3dmod.github.io/post/ce-shi-wen-zhang/">
+        </link>
+        <updated>2024-03-02T10:34:03.000Z</updated>
+    </entry>
+</feed>
